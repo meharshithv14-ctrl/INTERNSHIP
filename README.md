@@ -1,0 +1,2 @@
+INTERNSHIP FIRST REVIEW.pptx is the first review PPT where the company details and the functionalities were discussed along with what we would learn add to our skill sets in the FullStack WebDevelopment. 
+20221CSE0635_HARSHITH V CSE7302-Internship_Review-2.pptx Here is the 2nd review ppt where we discussed about the backend integration with the frontend and the working demo of the dashboard of the inital functionalities of the project.
